@@ -10,5 +10,5 @@ Please use these as examples, though the code works, I give no guarantee that it
 
 ### Commands list
 
-> - [commands/convert/convert.js](https://github.com/Rexyislive/DiscordCommandSnippets/blob/b0830bba5f71692e55af497a0c9779d920bf3b16/commands/convert/convert.js)  - Convert a unit to another
-> - [commands/bmi/bmi.js](https://github.com/Rexyislive/DiscordCommandSnippets/blob/b0830bba5f71692e55af497a0c9779d920bf3b16/commands/bmi/bmi.js) - Calculate user's Body Mass Index
+> - [commands/convert/convert.js](https://github.com/Rexyislive/DiscordCommandSnippets/blob/067f33f43ebeb88015ecf84bde90a02beb69f449/commands/convert/convert.md)  - Convert a unit to another
+> - [commands/bmi/bmi.js](https://github.com/Rexyislive/DiscordCommandSnippets/blob/067f33f43ebeb88015ecf84bde90a02beb69f449/commands/bmi/bmi.md) - Calculate user's Body Mass Index
