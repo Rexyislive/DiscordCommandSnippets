@@ -1,6 +1,6 @@
 # Discord Command Snippets
 
-> A collection of command snippets for a discord.js v13 bot.
+> A collection of command snippets for a discord.js v13 bot. *(Assumes your bot is built following the guide/tutorial)*
 
 Please use these as examples, though the code works, I give no guarantee that it's good code.
 
