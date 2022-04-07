@@ -5,3 +5,7 @@
 ## License
 
 > MIT
+
+### Commands list
+
+> - commands/convert.js - Convert a unit to another
