@@ -1,6 +1,6 @@
-# DiscordCommandSnippets
+# Discord Command Snippets
 
-> A collection of commands for a discord.js v13 bot.
+> A collection of command snippets for a discord.js v13 bot.
 
 ## License
 
