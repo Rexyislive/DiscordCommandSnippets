@@ -4,8 +4,13 @@
 
 Please use these as examples, though the code works, I give no guarantee that it's good code.
 
+---
+## Suggest a command
+Use Github's [Issue tracker](https://github.com/Rexyislive/DiscordCommandSnippets/issues) to post ideas and suggestions.
 
-### Commands list
+---
+
+## Commands list
 
 > - [commands/convert/convert.js](https://github.com/Rexyislive/DiscordCommandSnippets/blob/067f33f43ebeb88015ecf84bde90a02beb69f449/commands/convert/convert.md)  - Convert a unit to another
 > - [commands/bmi/bmi.js](https://github.com/Rexyislive/DiscordCommandSnippets/blob/067f33f43ebeb88015ecf84bde90a02beb69f449/commands/bmi/bmi.md) - Calculate user's Body Mass Index
