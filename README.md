@@ -4,7 +4,7 @@
 
 Please use these as examples, though the code works, I give no guarantee that it's good code.
 
-*Info on* [Command Handling](https://github.com/discordjs/guide/tree/main/code-samples/creating-your-bot/command-handling) by @discordjs/guide
+*Discord.js v13* [Command Handling](https://github.com/discordjs/guide/tree/main/code-samples/creating-your-bot/command-handling) on @discordjs/guide
 
 ---
 ## Suggest a command
@@ -14,7 +14,7 @@ Use Github's [Issue tracker](https://github.com/Rexyislive/DiscordCommandSnippet
 
 ## Commands list
 
-### Fitness commands
+### Fitness commands :muscle:
 
 | Command | Description | Permalink |
 | --- | --- | --- |
