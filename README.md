@@ -12,6 +12,15 @@ Use Github's [Issue tracker](https://github.com/Rexyislive/DiscordCommandSnippet
 
 ## Commands list
 
-> - [commands/convert/convert.js](https://github.com/Rexyislive/DiscordCommandSnippets/blob/067f33f43ebeb88015ecf84bde90a02beb69f449/commands/convert/convert.md)  - Convert a unit to another
-> - [commands/bmi/bmi.js](https://github.com/Rexyislive/DiscordCommandSnippets/blob/067f33f43ebeb88015ecf84bde90a02beb69f449/commands/bmi/bmi.md) - Calculate user's Body Mass Index
+### Fitness commands
 
+| Command | Description | Permalink |
+| --- | --- | --- |
+| bmi.js | Body Mass Index Calculator | [commands/bmi/bmi.js](commands/bmi/bmi.md) |
+| convert.js | Convert a unit to another | [commands/convert/convert.js](commands/convert/convert.md) |
+| mhr.js | Calculate user Max Heart Rate. | [commands/mhr/mhr.js](commands/mhr/mhr.md) |
+| tdee.js | Calculate user Total Daily Energy Expenditure. | [commands/tdee/tdee.js](commands/tdee/tdee.md) |
+| macros.js | Calculate user Macronutrients based on their goals. | [commands/macros/macros.js](commands/macros/macros.md) |
+| onerep.js | Calculate user One Repetition Maximum. | [commands/onerep/onerep.js](commands/onerep/onerep.md) |
+
+### More to come soon
