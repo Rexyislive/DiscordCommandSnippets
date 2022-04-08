@@ -4,6 +4,8 @@
 
 Please use these as examples, though the code works, I give no guarantee that it's good code.
 
+*Info on* [Command Handling](https://github.com/discordjs/guide/tree/main/code-samples/creating-your-bot/command-handling) by @discordjs/guide
+
 ---
 ## Suggest a command
 Use Github's [Issue tracker](https://github.com/Rexyislive/DiscordCommandSnippets/issues) to post ideas and suggestions.
