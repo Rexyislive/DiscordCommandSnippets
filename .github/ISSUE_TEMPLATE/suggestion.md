@@ -1,7 +1,7 @@
 ---
 name: Suggestion
 about: Suggestion Template
-title: "[Suggestion]"
+title: "[Suggestion] *Replace this text with your suggestion title*"
 labels: ''
 assignees: ''
 
@@ -9,4 +9,4 @@ assignees: ''
 
 **Suggestion:**
 
->
+> What about a command that...
