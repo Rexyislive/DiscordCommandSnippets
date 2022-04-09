@@ -4,7 +4,7 @@
 
 Please use these as examples, though the code works, I give no guarantee that it's good code.
 
-| [Changelog](changelog.md) |
+| [Changelog](/CHANGELOG.md) |
 | --- |
 
 
