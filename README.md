@@ -4,6 +4,10 @@
 
 Please use these as examples, though the code works, I give no guarantee that it's good code.
 
+| [Changelog](changelog.md) |
+| --- |
+
+
 *Discord.js v13* [Command Handling](https://github.com/discordjs/guide/tree/main/code-samples/creating-your-bot/command-handling) on @discordjs/guide
 
 ---
