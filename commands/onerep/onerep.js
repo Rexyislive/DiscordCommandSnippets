@@ -1,3 +1,11 @@
+/*****************************
+*
+*  Coded by Dexter Roderick
+*  Github: @Rexyislive     
+*  Discord: Rexyislive#2550
+*
+*****************************/
+
 // one rep max
 
 const { SlashCommandBuilder } = require('@discordjs/builders');

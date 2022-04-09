@@ -7,6 +7,14 @@
 [body-mass-index](https://github.com/brh55/body-mass-index#readme) - `npm install --save body-mass-index`
 
 ```js
+/*****************************
+*
+*  Coded by Dexter Roderick
+*  Github: @Rexyislive     
+*  Discord: Rexyislive#2550
+*
+*****************************/
+
 const { SlashCommandBuilder } = require('@discordjs/builders');
 const { MessageActionRow, MessageButton, MessageEmbed } = require('discord.js');
 

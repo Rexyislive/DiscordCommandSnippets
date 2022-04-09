@@ -8,6 +8,14 @@
 
 
 ```js
+/*****************************
+*
+*  Coded by Dexter Roderick
+*  Github: @Rexyislive     
+*  Discord: Rexyislive#2550
+*
+*****************************/
+
 const { SlashCommandBuilder } = require('@discordjs/builders');
 const { MessageActionRow, MessageButton, MessageEmbed } = require('discord.js');
 const { sports } = require('health-calculator');
