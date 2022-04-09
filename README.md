@@ -25,4 +25,5 @@ Use Github's [Issue tracker](https://github.com/Rexyislive/DiscordCommandSnippet
 | macros.js | Calculate user Macronutrients based on their goals. | [commands/macros/macros.js](commands/macros/macros.md) |
 | onerep.js | Calculate user One Repetition Maximum. | [commands/onerep/onerep.js](commands/onerep/onerep.md) |
 
+---
 ### More to come soon
