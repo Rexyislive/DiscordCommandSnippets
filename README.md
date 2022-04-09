@@ -30,4 +30,8 @@ Use Github's [Issue tracker](https://github.com/Rexyislive/DiscordCommandSnippet
 | onerep.js | Calculate user One Repetition Maximum. | [commands/onerep/onerep.js](commands/onerep/onerep.md) |
 
 ---
-### More to come soon
+### Utility
+
+| Command | Description | Permalink |
+| --- | --- | --- |
+| thumbnail.js | Fetch YouTube Video Thumbnail | [commands/thumbnail/thumbnail.js](commands/thumbnail/thumbnail.md) |
