@@ -35,3 +35,9 @@ Use Github's [Issue tracker](https://github.com/Rexyislive/DiscordCommandSnippet
 | Command | Description | Permalink |
 | --- | --- | --- |
 | thumbnail.js | Fetch YouTube Video Thumbnail | [commands/thumbnail/thumbnail.js](commands/thumbnail/thumbnail.md) |
+
+### Roleplay
+
+| Command | Description | Permalink |
+| --- | --- | --- |
+| generate-name.js | Generate a random name | [commands/generate-name/generate-name.js](commands/generate-name/generate-name.md) |
